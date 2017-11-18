@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=DEPtBx_TbyQ
+https://www.youtube.com/watch?v=8QQTZ3ZVEO4
+# just fill with youtube links and you'll get m4a's on disk when running script
